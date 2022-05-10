@@ -12,7 +12,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RislanSousa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<div style="display: inline_block"><br>
+<img align="center" alt="Rislan-android"  height="50" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+
+</div>
