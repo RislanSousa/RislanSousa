@@ -1,6 +1,6 @@
 ## Ola! eu sou o Rislan 
 
-- 📫 Estudante Flutter 
+- 📫 Estudante 
 - 😄 ADS 
 - ⚡ Cada dia é uma chance para ser melhor do que ontem !!!
 
