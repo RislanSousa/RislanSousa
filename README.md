@@ -2,7 +2,7 @@
 seja bem vindo 
 
 -Desenvolvedor em desenvolvimento!! 
-##-⚡ Cada dia é uma chance para ser melhor do que ontem !!!
+-⚡ Cada dia é uma chance para ser melhor do que ontem !!!
 
 
 <div align="center">
