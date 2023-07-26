@@ -1,6 +1,6 @@
 ## Ola, eu sou o Rislan Sousa, seja bem vindo !
 
-## Desenvolvedor em desenvolvimento ...
+## Desenvolvedor em desenvolvimento...
 ⚡ ''Cada dia é uma chance para ser melhor do que ontem!''
 
 
